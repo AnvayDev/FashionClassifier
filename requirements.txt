@@ -1,0 +1,10 @@
+tk
+pathlib
+kaggle
+kagglehub
+matplotlib
+numpy
+pandas
+torch
+Pillow
+torchvision
